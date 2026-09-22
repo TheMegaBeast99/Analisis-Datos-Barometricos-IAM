@@ -40,6 +40,7 @@ El proyecto procesa y modela la respuesta manométrica bajo compresión de gas a
 ```
 # 1. Clonar el repositorio
 git clone https://github.com/TheMegaBeast99/Procesamiento-de-Datos-Presion-Hidrostatica.git
+
 cd Procesamiento-de-Datos-Presion-Hidrostatica
 
 # 2. Instalar dependencias
