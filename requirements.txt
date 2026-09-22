@@ -1,6 +1,4 @@
-# 1. Clonar el repositorio
-git clone [https://github.com/TheMegaBeast99/Analisis-Datos-Barometricos-IAM.git](https://github.com/TheMegaBeast99/Analisis-Datos-Barometricos-IAM.git)
-cd Analisis-Datos-Barometricos-IAM
-
-# 2. Instalar dependencias
-pip install -r requirements.txt
+uncertainties
+numpy
+matplotlib
+scipy
